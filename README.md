@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishweshhR
-- 👀 I’m interested in Software Engineering, Web development and Data analytics.
-- 🌱 I’m currently learning Machine learning using scikit-learn.
+- 👀 I’m interested in Web development and Data analytics.
+- 🌱 I’m currently learning Blockchain development using Ethereum.
 - 💞️ I’m looking to collaborate on beginner to intermediate data analytics projects.
 - 📫 Mail me at vishweshhramesh@gmail.com
